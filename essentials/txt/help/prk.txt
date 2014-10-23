@@ -1,0 +1,8 @@
+
+	-- USB Debugging must be enabled
+	
+	-- basic idea of what's going on behind the curtain
+
+	-- know how to fix your device if its bricked
+	
+	

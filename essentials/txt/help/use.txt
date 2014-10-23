@@ -1,0 +1,12 @@
+
+	rename the img files without any spaces
+
+	copy them to the respective directories, boot\img or recovery\img.
+
+	open the menu option and choose the image to flash.
+
+	reboot the device to fastboot mode and press enter.
+
+	thats it.
+	
+	
